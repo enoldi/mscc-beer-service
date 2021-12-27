@@ -24,7 +24,7 @@ public class BeerController {
 
     @PostMapping
     public ResponseEntity postBeer(@RequestBody BeerDto beerDto) {
-
+ 
         // todo impl
         return new ResponseEntity(HttpStatus.CREATED);
     }

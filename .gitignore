@@ -144,3 +144,6 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+/nb-configuration.xml
+/nbactions.xml
+/nb-configuration.xml
